@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/codingapple-react-2020-1005-classnote-part2-build/precache-manifest.9d73fe5b1a71c478d89c448e4d9b5daa.js"
+  "/codingapple-react-2020-1005-classnote-part2-build/precache-manifest.b4753354fa7c2f44040167bc071cea03.js"
 );
 
 self.addEventListener('message', (event) => {

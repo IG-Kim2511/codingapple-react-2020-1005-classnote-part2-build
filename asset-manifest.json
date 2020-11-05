@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/codingapple-react-2020-1005-classnote-part2-build/static/css/main.294ecc29.chunk.css",
-    "main.js": "/codingapple-react-2020-1005-classnote-part2-build/static/js/main.56f4f8b2.chunk.js",
-    "main.js.map": "/codingapple-react-2020-1005-classnote-part2-build/static/js/main.56f4f8b2.chunk.js.map",
+    "main.css": "/codingapple-react-2020-1005-classnote-part2-build/static/css/main.f6dcd62e.chunk.css",
+    "main.js": "/codingapple-react-2020-1005-classnote-part2-build/static/js/main.2d778abb.chunk.js",
+    "main.js.map": "/codingapple-react-2020-1005-classnote-part2-build/static/js/main.2d778abb.chunk.js.map",
     "runtime-main.js": "/codingapple-react-2020-1005-classnote-part2-build/static/js/runtime-main.9509f90d.js",
     "runtime-main.js.map": "/codingapple-react-2020-1005-classnote-part2-build/static/js/runtime-main.9509f90d.js.map",
-    "static/js/2.4cf8ebd9.chunk.js": "/codingapple-react-2020-1005-classnote-part2-build/static/js/2.4cf8ebd9.chunk.js",
-    "static/js/2.4cf8ebd9.chunk.js.map": "/codingapple-react-2020-1005-classnote-part2-build/static/js/2.4cf8ebd9.chunk.js.map",
+    "static/js/2.0548ec58.chunk.js": "/codingapple-react-2020-1005-classnote-part2-build/static/js/2.0548ec58.chunk.js",
+    "static/js/2.0548ec58.chunk.js.map": "/codingapple-react-2020-1005-classnote-part2-build/static/js/2.0548ec58.chunk.js.map",
     "index.html": "/codingapple-react-2020-1005-classnote-part2-build/index.html",
-    "precache-manifest.9d73fe5b1a71c478d89c448e4d9b5daa.js": "/codingapple-react-2020-1005-classnote-part2-build/precache-manifest.9d73fe5b1a71c478d89c448e4d9b5daa.js",
+    "precache-manifest.b4753354fa7c2f44040167bc071cea03.js": "/codingapple-react-2020-1005-classnote-part2-build/precache-manifest.b4753354fa7c2f44040167bc071cea03.js",
     "service-worker.js": "/codingapple-react-2020-1005-classnote-part2-build/service-worker.js",
-    "static/css/main.294ecc29.chunk.css.map": "/codingapple-react-2020-1005-classnote-part2-build/static/css/main.294ecc29.chunk.css.map",
-    "static/js/2.4cf8ebd9.chunk.js.LICENSE.txt": "/codingapple-react-2020-1005-classnote-part2-build/static/js/2.4cf8ebd9.chunk.js.LICENSE.txt"
+    "static/css/main.f6dcd62e.chunk.css.map": "/codingapple-react-2020-1005-classnote-part2-build/static/css/main.f6dcd62e.chunk.css.map",
+    "static/js/2.0548ec58.chunk.js.LICENSE.txt": "/codingapple-react-2020-1005-classnote-part2-build/static/js/2.0548ec58.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9509f90d.js",
-    "static/js/2.4cf8ebd9.chunk.js",
-    "static/css/main.294ecc29.chunk.css",
-    "static/js/main.56f4f8b2.chunk.js"
+    "static/js/2.0548ec58.chunk.js",
+    "static/css/main.f6dcd62e.chunk.css",
+    "static/js/main.2d778abb.chunk.js"
   ]
 }
